@@ -58,4 +58,71 @@ int main() {
 
 
 	}
+
+	
+
+	
+	for (int f = 0; f < 5; f++) 
+	{
+		for (int g = 4; g > f; g--) {
+
+
+			printf(" ");
+		}
+
+		int star = 2 * f + 1;
+
+		for (int h = 0; star > h; h++) {
+			
+			
+			printf("*");
+		}
+		
+		for (int g = 4; g > f; g--) {
+
+
+			printf(" ");
+		}
+		
+		
+		
+		printf("\n");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
