@@ -1,2 +1,6 @@
 ﻿  starmission.c
+<<<<<<< HEAD
   starmission.vcxproj -> D:\semicolon\pass\starmission\x64\Debug\starmission.exe
+=======
+  starmission.vcxproj -> C:\Users\user\Desktop\project\semicolon\pass\starmission\x64\Debug\starmission.exe
+>>>>>>> 19a818f8da4eb94595fac8e01625ee58be471beb
