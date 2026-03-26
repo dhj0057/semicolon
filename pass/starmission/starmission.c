@@ -1,4 +1,6 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 int main() {
 	for (int i = 1; i < 6; i++)
 
@@ -59,12 +61,14 @@ int main() {
 
 	}
 
-	
+	int z = 0;
+	scanf("%d",&z);
+
 
 	
-	for (int f = 0; f < 5; f++) 
+	for (int f = 0; f < z; f++) 
 	{
-		for (int g = 4; g > f; g--) {
+		for (int g = z; g > f; g--) {
 
 
 			printf(" ");
@@ -78,7 +82,7 @@ int main() {
 			printf("*");
 		}
 		
-		for (int g = 4; g > f; g--) {
+		for (int g = z; g > f; g--) {
 
 
 			printf(" ");
