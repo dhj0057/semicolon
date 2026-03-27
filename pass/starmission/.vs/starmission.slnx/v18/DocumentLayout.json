@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{C08737AA-9A9B-448E-A07B-6C6281C23BE8}|starmission.vcxproj|D:\\semicolon\\pass\\starmission\\starmission.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C08737AA-9A9B-448E-A07B-6C6281C23BE8}|starmission.vcxproj|solutionrelative:starmission.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46428963-8964-47A3-8225-5DF3DBC7FD8C}|..\\passplaygame\\passplaygame.vcxproj|D:\\semicolon\\pass\\passplaygame\\playGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +33,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "playGame.c",
+              "DocumentMoniker": "D:\\semicolon\\pass\\passplaygame\\playGame.c",
+              "RelativeDocumentMoniker": "..\\passplaygame\\playGame.c",
+              "ToolTip": "D:\\semicolon\\pass\\passplaygame\\playGame.c",
+              "RelativeToolTip": "..\\passplaygame\\playGame.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-27T00:05:42.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "starmission.c",
               "DocumentMoniker": "D:\\semicolon\\pass\\starmission\\starmission.c",
               "RelativeDocumentMoniker": "starmission.c",
               "ToolTip": "D:\\semicolon\\pass\\starmission\\starmission.c",
               "RelativeToolTip": "starmission.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-03-26T11:00:23.063Z",
               "EditorCaption": ""

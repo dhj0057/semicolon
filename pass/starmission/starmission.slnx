@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="starmission.vcxproj" Id="c08737aa-9a9b-448e-a07b-6c6281c23be8" />
+  <Project Path="D:/semicolon/pass/passplaygame/passplaygame.vcxproj" Id="46428963-8964-47a3-8225-5df3dbc7fd8c" />
+  <Project Path="D:/semicolon/pass/starmission/starmission.vcxproj" Id="c08737aa-9a9b-448e-a07b-6c6281c23be8" />
 </Solution>
