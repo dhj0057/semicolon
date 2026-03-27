@@ -65,7 +65,7 @@ int main() {
 	scanf("%d",&z);
 
 	
-	for (int f = 0; f < z; f++) 
+	for (int f = 0; f < z; f++)
 	{
 		for (int g = z; g > f; g--) {
 
@@ -76,46 +76,45 @@ int main() {
 		int star = 2 * f + 1;
 
 		for (int h = 0; star > h; h++) {
-			
-			
+
+
 			printf("*");
 		}
-		
+		printf("\n");
+	}
+	for (int f = z - 2 ; f >= 0; f--) {
 
-	
-
-		for (int g = z; g > z; g--) { 
-
-
-
+		for (int g = z; g > f; g--) {
 			printf(" ");
 		}
+		int star = 2 * f + 1;
 		
-		
-		
+		for (int h = 0; star > h; h++) {
+			printf("*");
+		}
 		printf("\n");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 }
 
 
