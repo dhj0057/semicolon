@@ -3,15 +3,14 @@
 	
 int main(void) {
 
-	int m = 0;
 	int n = 0;
 	
 	printf("마음에드는 정수를 입력하세용\n");
 	scanf("%d", &n);
 
-	for (m = 1; m <= n; m++)
+	for (int m = 1; m <= n; m++)
 	{
-		printf("%d" , m);
+		printf("%d\n" , m);
 
 	}
 	printf("\n");
