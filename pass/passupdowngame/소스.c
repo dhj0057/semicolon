@@ -29,7 +29,7 @@ int main(void) {
 			printf("UP!\n");
 		}
 		else {
-			printf("GOOD! THAT'S THE ANSWER!");
+			printf("GOOD! THAT'S THE ANSWER!\n");
 			printf("%d 번만의 정답이다!", count);
 			break;
 		}

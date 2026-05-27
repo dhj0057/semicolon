@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="passroulette.vcxproj" Id="35a28b5b-9963-4a5b-acfd-20e237c598c1" />
+</Solution>
