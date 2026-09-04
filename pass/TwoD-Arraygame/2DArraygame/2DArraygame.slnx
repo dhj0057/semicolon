@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="2DArraygame.vcxproj" />
+  <Project Path="2DArraygame.vcxproj" Id="5f201a71-1518-4e7d-a37e-5cd9b483a2d7" />
 </Solution>

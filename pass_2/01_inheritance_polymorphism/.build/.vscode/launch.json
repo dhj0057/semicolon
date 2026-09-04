@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "캐릭터 전투 프로그램 실행",
+            "request": "launch",
+            "mainClass": "Main",
+            "cwd": "${workspaceFolder}",
+            "classPaths": [
+                "${workspaceFolder}\\.build"
+            ],
+            "preLaunchTask": "Java: 캐릭터 프로그램 컴파일",
+            "console": "integratedTerminal"
+        }
+    ]
+}

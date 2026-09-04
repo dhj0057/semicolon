@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Java: 학생 명단 컴파일",
+            "type": "process",
+            "command": "C:\\Users\\AISW-510-125\\.jdks\\ms-21.0.10\\bin\\javac.exe",
+            "args": [
+                "-encoding",
+                "UTF-8",
+                "-d",
+                "${workspaceFolder}\\.build",
+                "${workspaceFolder}\\Student.java",
+                "${workspaceFolder}\\StudentManager.java",
+                "${workspaceFolder}\\Main.java"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": "$javac",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

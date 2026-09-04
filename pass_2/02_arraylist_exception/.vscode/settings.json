@@ -1,0 +1,14 @@
+{
+    "java.jdt.ls.java.home": "C:\\Users\\AISW-510-125\\.jdks\\ms-21.0.10",
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-21",
+            "path": "C:\\Users\\AISW-510-125\\.jdks\\ms-21.0.10",
+            "default": true
+        }
+    ],
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.outputPath": ".build"
+}
